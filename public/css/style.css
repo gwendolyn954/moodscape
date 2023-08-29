@@ -16,6 +16,12 @@ body, html {
     
 }
 
+.logo {
+    font-size: 30px;
+    font-weight: 300;
+    margin-right: 400px;
+}
+
 .navbar .container {
     background-color: rgba(0, 0, 0, 0.2);
     display: flex;
@@ -33,15 +39,9 @@ body, html {
 
 
 .navbar .container ul li a {
-   margin-left: 90px;
+   margin-left: 50px;
    color: white;
    text-decoration: none;
-}
-
-.logo {
-    font-size: 30px;
-    font-weight: 300;
-    margin-right: 400px;
 }
 
 
@@ -70,7 +70,8 @@ main img {
 h2 {
     font-weight: 300;
     font-size: 60px;
-    text-shadow: 4px 4px 5px black;
+    color: black;
+    text-shadow: 1px 1px 2px rgb(100, 98, 98);
 }
 
 footer {
