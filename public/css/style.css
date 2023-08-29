@@ -81,6 +81,10 @@ footer {
     align-items: center;
 }
 
+footer .footer-logo .logo {
+    margin-bottom: 8px;
+}
+
 footer .footer-logo a {
     margin-left:  25px;
     color: #c754d2;
