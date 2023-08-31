@@ -4,7 +4,7 @@
 
 ## Overview:
 
-MOODSCAPE is a a web application that helps users gain insight into their moods and emotions. 
+MOODSCAPE is a web application that helps users gain insight into their moods and emotions. 
 
 ## Tech Used 
 Express, Node.js, JavaScript, CSS, HTML
