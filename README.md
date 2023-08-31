@@ -1,5 +1,5 @@
 # MOODSCAPE
-![Header](https://github.com/gwendolyn954/demon-slayer-api/blob/main/public/assets/gh-header.png)
+![Header](https://github.com/gwendolyn954/moodscape/blob/main/public/assets/MOODSCAPE-banner.png)
 ![Project Screenshot](https://github.com/gwendolyn954/demon-slayer-api/blob/main/public/assets/ds-updated.png)
 
 ## Overview:
