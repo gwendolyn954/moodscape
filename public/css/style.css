@@ -3,15 +3,17 @@
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
 }
 
-body, html {
-    height: 100%;
+ body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     background-image: url(/public/assets/home-bg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     color: white;
 }
 
@@ -48,7 +50,6 @@ body, html {
     color: aqua;
 }
 
-
 #log-in {
     border: none;
     padding: 10px;
@@ -79,6 +80,40 @@ h2 {
     color: black;
     text-shadow: 1px 1px 2px rgb(100, 98, 98);
 }
+/* Learn More Page */
+#section-one {
+    padding: 20px;  
+    color: black;
+}
+
+#section-one p {
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+
+#section-one #what-is-moodscape, #section-one #how-it-works {
+    font-size: 60px;
+    text-shadow: none;
+    padding-bottom: 20px;
+}
+
+#how-it-works {
+    padding-top: 20px;
+}
+
+#section-two {
+    padding: 20px;  
+    color: black;
+}
+
+#section-two h3 {
+    color: black;
+    font-size: 30px;
+}
+
+#section-two {
+    display: flex;
+}
 
 /* footer */
 
@@ -96,7 +131,7 @@ footer .footer-logo .logo {
 
 footer .footer-logo a {
     margin-left:  24px;
-    color: #c754d2;
+    color: #f372ff93;
 }
 
 .disclaimer {
