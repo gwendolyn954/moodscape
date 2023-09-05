@@ -94,7 +94,7 @@ h2 {
 #section-one #what-is-moodscape, #section-one #how-it-works {
     font-size: 60px;
     text-shadow: none;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 #how-it-works {
@@ -102,17 +102,33 @@ h2 {
 }
 
 #section-two {
-    padding: 20px;  
     color: black;
 }
 
 #section-two h3 {
     color: black;
     font-size: 30px;
+    margin-bottom: 20px;
 }
 
 #section-two {
     display: flex;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.card {
+    background: rgba(203, 203, 203, 0.2);
+    padding: 30px;
+    height: 325px;
+    width: 600px;
+    margin: 10px 20px;
+    border-radius: 10px;
+}
+
+.icons {
+    color: white;
+    padding-top: 15px;
 }
 
 /* footer */
