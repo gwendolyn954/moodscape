@@ -10,7 +10,7 @@ MOODSCAPE is a web application that helps users gain insight into their moods an
 Express, Node.js, MongoDB, JavaScript, CSS, HTML
 
 ## How To Use
-Users will be able to select a mood for the day and add a journal entry describing their mood.  There will be a dashboard view which will guide users to view mood trends over time.  By identifying patterns in the user's moods, MOODSCAPE can be a helpful topol to develop a better understanding of triggers and reactions.  
+Users will be able to select a mood for the day and add a journal entry describing their mood.  There will be a dashboard view which will guide users to view mood trends over time.  By identifying patterns in the user's moods, MOODSCAPE can be a helpful tool to develop a better understanding of triggers and reactions.  
 
 
 ## Working On:
