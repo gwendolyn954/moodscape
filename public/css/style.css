@@ -91,6 +91,10 @@ h2 {
     font-size: 18px;
 }
 
+#what-is-moodscape {
+    padding-top: 40px;
+}
+
 #section-one #what-is-moodscape, #section-one #how-it-works {
     font-size: 60px;
     text-shadow: none;
@@ -98,7 +102,7 @@ h2 {
 }
 
 #how-it-works {
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 #section-two {
@@ -118,17 +122,12 @@ h2 {
 }
 
 .card {
-    background: rgba(203, 203, 203, 0.2);
+    background: rgba(203, 203, 203, 0.5);
     padding: 30px;
     height: 325px;
     width: 600px;
     margin: 10px 20px;
     border-radius: 10px;
-}
-
-.icons {
-    color: white;
-    padding-top: 15px;
 }
 
 /* footer */
@@ -147,7 +146,7 @@ footer .footer-logo .logo {
 
 footer .footer-logo a {
     margin-left:  24px;
-    color: #f372ff93;
+    color: #e7beeb66;
 }
 
 .disclaimer {
@@ -155,5 +154,7 @@ footer .footer-logo a {
     font-weight: 300;
 }
 
+.icons a {
+    color: black;
 
-
+}
